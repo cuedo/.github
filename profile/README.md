@@ -4,4 +4,7 @@ As a family-owned business, we serve a wide range of clients, from emerging star
 
 Our software solutions adhere to the highest standards of safety and best practices, with a strong emphasis on functional safety and compliance with industry standards, including ISO 26262, ASPICE, and IEC 61508.
 
-We are accredited by the following Australian regulatory bodies, ensuring compliance and readiness to support your next project: • Engineers Australia, National Engineering Register (NER) • Victorian Business Licensing Authority, Registered Professional Engineers (RPEV) • The Board of Professional Engineers of Queensland, Registered Professional Engineers (RPEQ)
+We are accredited by the following Australian regulatory bodies, ensuring compliance and readiness to support your next project:
+* Engineers Australia, National Engineering Register (NER)
+* Victorian Business Licensing Authority, Registered Professional Engineers (RPEV)
+* The Board of Professional Engineers of Queensland, Registered Professional Engineers (RPEQ)
